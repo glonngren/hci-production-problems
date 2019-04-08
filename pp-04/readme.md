@@ -25,11 +25,18 @@ Small commits to your Production Problems repository that include:
 2. an explanation of three different points of guidance from your chosen guidelines (point to the
    specific URL where the guidance can be found) that you implemented in your sketch, written below:
 
-* HCI Guideline One (URL):
+* HCI Guideline One (URL): https://material.io/design/
 * Describe how you implemented that guideline in your sketch:
+  My new web page would implement heirarchy of design to highlight the
+  most important parts of the website such as user input or interactive
+  elements.
 
-* HCI Guideline Two (URL):
+* HCI Guideline Two (URL): https://material.io/design/color/
 * Describe how you implemented that guideline in your sketch:
+  My color scheme uses a 1 color pallette with a variation of shades.
+  simple and minimalistic.
 
-* HCI Guideline Three (URL):
+* HCI Guideline Three (URL): https://material.io/design/layout/understanding-layout.html
 * Describe how you implemented that guideline in your sketch:
+Layout should be intuitive and easy for the user to understand to
+encourage a positive experience for the user.
